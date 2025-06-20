@@ -29,6 +29,12 @@ Reports/ # HTML report output
 - Checkout Flow
 - Logout
 
+## 📄 Documents
+- ✅ [Test Plan](./TestPlan_Umme_Kulsoom.pdf)
+- ✅ [Test Cases](./TestCases.xlsx)
+- ✅ [Extent Report](./Reports/ExtentReport.html)
+
+
 ## 🧪 How to Run
 
 1. Clone this repo

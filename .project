@@ -20,4 +20,21 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>BugReport_UmmeK.xlsx</name>
+			<type>1</type>
+			<location>C:/Users/hp/Downloads/BugReport_UmmeK.xlsx</location>
+		</link>
+		<link>
+			<name>TestCases_QuickCart.xlsx</name>
+			<type>1</type>
+			<location>C:/Users/hp/Downloads/TestCases_QuickCart.xlsx</location>
+		</link>
+		<link>
+			<name>TestPlan_QuickCart_UMME_KULSOOM.docx</name>
+			<type>1</type>
+			<location>C:/Users/hp/Downloads/TestPlan_QuickCart_UMME_KULSOOM.docx</location>
+		</link>
+	</linkedResources>
 </projectDescription>
