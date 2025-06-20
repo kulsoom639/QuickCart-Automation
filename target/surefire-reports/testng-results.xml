@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="10" total="15" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-20T13:11:47 IST" name="Surefire suite" finished-at="2025-06-20T13:12:41 IST" duration-ms="54011">
+    <groups>
+    </groups>
+    <test started-at="2025-06-20T13:11:47 IST" name="Surefire test" finished-at="2025-06-20T13:12:41 IST" duration-ms="54011">
+      <class name="Tests.CartTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.CartTest@67e2d983]" started-at="2025-06-20T13:11:47 IST" name="setup" finished-at="2025-06-20T13:11:53 IST" duration-ms="6005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyAddToCartFunctionality()[pri:0, instance:Tests.CartTest@67e2d983]" started-at="2025-06-20T13:11:53 IST" name="verifyAddToCartFunctionality" finished-at="2025-06-20T13:12:07 IST" duration-ms="13307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddToCartFunctionality -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:Tests.CartTest@67e2d983]" started-at="2025-06-20T13:12:07 IST" name="tearDownMethod" finished-at="2025-06-20T13:12:07 IST" duration-ms="427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- Tests.CartTest -->
+      <class name="Tests.LogoutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.LogoutTest@3bbc39f8]" started-at="2025-06-20T13:12:25 IST" name="setup" finished-at="2025-06-20T13:12:28 IST" duration-ms="2769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogoutFunctionality()[pri:0, instance:Tests.LogoutTest@3bbc39f8]" started-at="2025-06-20T13:12:28 IST" name="verifyLogoutFunctionality" finished-at="2025-06-20T13:12:34 IST" duration-ms="5562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoutFunctionality -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:Tests.LogoutTest@3bbc39f8]" started-at="2025-06-20T13:12:34 IST" name="tearDownMethod" finished-at="2025-06-20T13:12:34 IST" duration-ms="338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- Tests.LogoutTest -->
+      <class name="Tests.InvalidLoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.InvalidLoginTest@5d47c63f]" started-at="2025-06-20T13:12:07 IST" name="setup" finished-at="2025-06-20T13:12:11 IST" duration-ms="3415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyInvalidLogin()[pri:0, instance:Tests.InvalidLoginTest@5d47c63f]" started-at="2025-06-20T13:12:11 IST" name="verifyInvalidLogin" finished-at="2025-06-20T13:12:16 IST" duration-ms="5619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidLogin -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:Tests.InvalidLoginTest@5d47c63f]" started-at="2025-06-20T13:12:16 IST" name="tearDownMethod" finished-at="2025-06-20T13:12:17 IST" duration-ms="368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- Tests.InvalidLoginTest -->
+      <class name="Base.BaseTest">
+        <test-method is-config="true" signature="setupReport()[pri:0, instance:Base.BaseTest@15bb6bea]" started-at="2025-06-20T13:11:47 IST" name="setupReport" finished-at="2025-06-20T13:11:47 IST" duration-ms="338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupReport -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:Base.BaseTest@15bb6bea]" started-at="2025-06-20T13:12:41 IST" name="flushReport" finished-at="2025-06-20T13:12:42 IST" duration-ms="492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+      </class> <!-- Base.BaseTest -->
+      <class name="Tests.SearchTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.SearchTest@4ae3c1cd]" started-at="2025-06-20T13:12:34 IST" name="setup" finished-at="2025-06-20T13:12:37 IST" duration-ms="2699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLaptopsCategoryDisplaysProduct()[pri:0, instance:Tests.SearchTest@4ae3c1cd]" started-at="2025-06-20T13:12:37 IST" name="verifyLaptopsCategoryDisplaysProduct" finished-at="2025-06-20T13:12:41 IST" duration-ms="4201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLaptopsCategoryDisplaysProduct -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:Tests.SearchTest@4ae3c1cd]" started-at="2025-06-20T13:12:41 IST" name="tearDownMethod" finished-at="2025-06-20T13:12:41 IST" duration-ms="429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- Tests.SearchTest -->
+      <class name="Tests.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.LoginTest@5ea434c8]" started-at="2025-06-20T13:12:17 IST" name="setup" finished-at="2025-06-20T13:12:19 IST" duration-ms="2833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testValidLogin()[pri:0, instance:Tests.LoginTest@5ea434c8]" started-at="2025-06-20T13:12:19 IST" name="testValidLogin" finished-at="2025-06-20T13:12:25 IST" duration-ms="5632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidLogin -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:Tests.LoginTest@5ea434c8]" started-at="2025-06-20T13:12:25 IST" name="tearDownMethod" finished-at="2025-06-20T13:12:25 IST" duration-ms="348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- Tests.LoginTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
